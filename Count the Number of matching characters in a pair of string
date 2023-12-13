@@ -28,7 +28,7 @@ void count(string str1, string str2)
 	<< c / 2
 }
 
-// Driver code
+// Driver code here
 int main()
 {
 	string str1 = "aabcddekll12@"
