@@ -4,7 +4,7 @@
 # include <bits/stdc++.h>
 using namespace std
 
-// Function to count the matching characters
+// Function to count the matching characters 
 void count(string str1, string str2)
 {
 	int c = 0, j = 0
